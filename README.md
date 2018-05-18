@@ -59,3 +59,27 @@ We are using ssd_inception_v2_coco_11_06_2017 pre-trained model. (Download model
 Open `jupyter notebook`
 Open `object_detection_face.ipynb`
 - Run the ipython notebook and it would start the web camp and you have to pass the images or video near to webcamp.
+
+### Statistics of dataset
+
+train
+test
+final
+1366 frames
+353 frames
+1719 frames
+1579 objects detected
+358 objects detected
+1937 objects detected
+roger federer . : 358
+roger federer :35
+roger federer : 393
+jack sock : 357
+jack sock :53
+jack sock 410 :
+rafael nadal . : 444
+rafael nadal :50
+rafael nadal : 494
+sam austin querry : 420
+sam austin querry : 220
+sam austin querry : 620
